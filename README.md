@@ -4,7 +4,7 @@
   <i><h4>Projeto mostrando fundamentos de banco de dados atavés da linguagem python</h4></i>
 
 <blockquote>
-    <button> <a href='python com sqlite3.ipynb' > <b> Clique Aqui para ver o projeto </b> </a>
+    <button> <a href='Notebook_Python.ipynb' > <b> Clique Aqui para ver o projeto </b> </a>
 </blockquote>
 
 <h2>Sobre o Projeto</h2>
