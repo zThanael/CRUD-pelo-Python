@@ -5,7 +5,7 @@
 
 <h2>Sobre o Projeto</h2>
  <li><b>Ao estudar sobre banco de dados e suas aplicações básicas que consistem no CRUD (Create, Read, Update, Delete), sendo ele um conjunto de aplicações básicas que vão da criação de tabelas até a atualização e remoção de registros no banco de dados.  <br>
-    Após verificar que os comandos nunca sofrem alterações salvo os dos valores, me veio a ideia de utilizar o python para criar um código que pudesse automatizar esse processo. 
+ Após verificar que os comandos nunca sofrem alterações salvo o dos valores, me veio a ideia de utilizar o python para criar um código que pudesse automatizar esse processo. 
  </b></li>
 
 <h2>Objetivo</h2>
@@ -42,13 +42,11 @@
     </ul> 
 </blockquote>
  <br>
-<h2> Sobre mim </h2>
-<blockquote>    
+<h2> Sobre mim </h2>  
     <ul> 
-    <li> 🎓 Estudante de **Engenharia de Software 3° Périodo - [Uniguaçu](https://uniao.uniguacu.edu.br/)** </li>
+    <li> 🎓 Estudante de <b>Engenharia de Software 3° Périodo - <a href='https://uniao.uniguacu.edu.br/'>Uniguaçu </a></b></li>
     <li> 💻 Entusiasta por Python </br> </li> 
     </ul> 
-</blockquote>
 <h2> Contato </h3>
 <blockquote>    
     <ul> 
