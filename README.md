@@ -5,7 +5,7 @@
 
 <blockquote>
     <button> <a href='Notebook_Python.ipynb' > <b> Clique Aqui para ver o projeto </b> </a>
-    <blockquote>Obs: O arquivo pode demorar um pouco para abrir, caso não abra atualize a página ou clike no icone <a href='Notebook_Python.ipynb'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83o7RxXhQQg78OZz2yO2AOgfafJ0gdWmLDQ&usqp=CAU' width='30px' height='30px'> </a>
+    <blockquote>Obs: O arquivo pode demorar um pouco para abrir, caso não abra atualize a página ou clique no icone <a href='Notebook_Python.ipynb'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83o7RxXhQQg78OZz2yO2AOgfafJ0gdWmLDQ&usqp=CAU' width='15px' height='15px'> </a>
     </blockquote> 
 </blockquote>
 
