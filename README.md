@@ -5,7 +5,8 @@
 
 <blockquote>
     <button> <a href='Notebook_Python.ipynb' > <b> Clique Aqui para ver o projeto </b> </a>
-    <blockquote>Obs: O arquivo pode demorar um pouco para abrir, caso não abra atualize a página</blockquote> 
+    <blockquote>Obs: O arquivo pode demorar um pouco para abrir, caso não abra atualize a página ou clike no icone <a href='Notebook_Python.ipynb'> <img src='Notebook_Python.ipynb' width='100px' height='100px'> </a>
+    </blockquote> 
 </blockquote>
 
 <h2>Sobre o Projeto</h2>
