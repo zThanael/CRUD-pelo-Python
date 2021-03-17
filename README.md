@@ -4,7 +4,7 @@
   <i><h4>Projeto mostrando fundamentos de banco de dados atavés da linguagem python</h4></i>
 
 <blockquote>
-    <li> <a href='python com sqlite3.ipynb' > <img src='https://bowerbird-app.s3.amazonaws.com/production/uploads/publication/image/1513/medium_Projeto.png' widht='100px' height='50px'> </a>
+    <li> <button> <a href='python com sqlite3.ipynb' > Clique Aqui para ver o projeto  </a>
 </blockquote>
 
 <h2>Sobre o Projeto</h2>
