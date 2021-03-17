@@ -3,6 +3,10 @@
 <hr>
   <i><h4>Projeto mostrando fundamentos de banco de dados atavés da linguagem python</h4></i>
 
+<blockquote>
+    <li> <a href='python com sqlite3.ipynb' > <img src='https://bowerbird-app.s3.amazonaws.com/production/uploads/publication/image/1513/medium_Projeto.png' widht='100px' height='50px'> </a>
+</blockquote>
+
 <h2>Sobre o Projeto</h2>
  <li><b>Ao estudar sobre banco de dados e suas aplicações básicas que consistem no CRUD (Create, Read, Update, Delete), sendo ele um conjunto de aplicações básicas que vão da criação de tabelas até a atualização e remoção de registros no banco de dados.  <br>
  Após verificar que os comandos nunca sofrem alterações salvo o dos valores, me veio a ideia de utilizar o python para criar um código que pudesse automatizar esse processo. 
