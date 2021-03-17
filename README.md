@@ -1,11 +1,16 @@
 <h1> CRUD pelo Python </h1>
 <img src='capa.png'>
 <hr>
- Projeto mostrando fundamentos de banco de dados pela linguagem python
+  <i><h4>Projeto mostrando fundamentos de banco de dados pela linguagem python</h4></i>
+
+<h2>Sobre o Projeto</h2>
+ <li><b>Ao estudar sobre banco de dados e suas aplicações básicas que consistem no CRUD (Create, Read, Update, Delete), sendo ele um conjunto de aplicações básicas que vão da criação de tabelas até a atualização e remoção de registros nela. Após verificar que os comandos nunca sofrem alterações salvo os dos valores, me veio a ideia de utilizar o python para criar um código que pudesse automatizar esse processo. 
+ </b></li>
 
 <h2>Objetivo</h2>
-<br>
-    <li><b> O projeto tem como objetivo demonstrar a utilização de linguagem de programação (Python) para automatizar aplicações básicas SQL (CRUD) em um banco de dado relacional SQLite3</b></li>
+ <li><b>O projeto tem como objetivo demonstrar a utilização de linguagem de programação (Python) para automatizar aplicações básicas SQL (CRUD) em um banco de dado relacional SQLite</b></li>
+
+
 
 <h2>Conhecimentos Utilizados no Projeto </h3>
 <h3> Python </h3>
@@ -13,7 +18,6 @@
     <ul> 
     <li> Laços de Repetição </li>
     <li> Estruturas de condição </li> 
-    <li> Biblioteca SQLite3 </li> 
     <li> Funções </li> 
     </ul> 
 </blockquote>
@@ -25,5 +29,29 @@
     <li> Update </li> 
     <li> Delete </li> 
     <li> Cursor </li>
+    </ul> 
+</blockquote>
+
+<h2> Bibliotecas Utilizadas </h3>
+<blockquote>    
+    <ul> 
+    <li> os </li>
+    <li> sqlite3 </li> 
+    <li> random </li> 
+    </ul> 
+</blockquote>
+ <br>
+<h2> Sobre mim </h2>
+<blockquote>    
+    <ul> 
+    <li> 🎓 Estudante de **Engenharia de Software 3° Périodo - [Uniguaçu](https://uniao.uniguacu.edu.br/)** </li>
+    <li> 💻 Entusiasta por Python </br> </li> 
+    </ul> 
+</blockquote>
+<h2> Contato </h3>
+<blockquote>    
+    <ul> 
+    <li> <a href="https://www.linkedin.com/in/thanaelbutewicz/"> <b>Linkedin</b> </a> </li>
+    <li> <a href="https://github.com/zThanael"> <b>GitHub</b> </a> </li>
     </ul> 
 </blockquote>
