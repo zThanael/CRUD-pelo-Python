@@ -1,7 +1,7 @@
 <h1> CRUD pelo Python </h1>
 <img src='capa.png'>
 <hr>
-  <i><h4>Projeto mostrando fundamentos de banco de dados atavés da linguagem python</h4></i>
+  <i><h4 align='right'>Projeto mostrando fundamentos de banco de dados atavés da linguagem python</h4 align='right'></i>
 
 <blockquote>
     <button> <a href='Notebook_Python.ipynb' > <b> Clique Aqui para ver o projeto </b> </a>
